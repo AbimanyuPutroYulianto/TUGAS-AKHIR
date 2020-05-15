@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TUGAS_AKHIR", "Modul8_kel53_python\TUGAS_AKHIR.pyproj", "{F8B8BB22-044D-4AEB-A07E-310BC6F25E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B8BB22-044D-4AEB-A07E-310BC6F25E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B8BB22-044D-4AEB-A07E-310BC6F25E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27FDEAE6-F7F3-44DB-B1F8-A837A3CE6AD9}
+	EndGlobalSection
+EndGlobal
